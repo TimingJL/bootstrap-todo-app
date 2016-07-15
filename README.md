@@ -1,25 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Integrating Rails and Bootstrap
 
-Things you may want to cover:
+This is my first practice to integrate rails and bootstrap by following the tutorial:
 
-* Ruby version
 
-* System dependencies
+1. Integrating Rails and Bootstrap, Part 1 – the Installation
+<https://launchschool.com/blog/integrating-rails-and-bootstrap-part-1/>
 
-* Configuration
+2. Integrating Rails and Bootstrap, Part 2 – CSS and Components
+<https://launchschool.com/blog/integrating-rails-and-bootstrap-part-2/>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# bootstrap-todo-app
+3. Integrating Rails and Bootstrap, Part 3 – Javascript Based Features
+<https://launchschool.com/blog/integrating-rails-and-bootstrap-part-3/>
