@@ -13,3 +13,7 @@ This is my first practice to integrate rails and bootstrap by following the tuto
 
 3. Integrating Rails and Bootstrap, Part 3 – Javascript Based Features
 <https://launchschool.com/blog/integrating-rails-and-bootstrap-part-3/>
+
+
+
+![Alt text](https://github.com/TimingJL/bootstrap-todo-app/blob/master/pic/todo.JPG)
