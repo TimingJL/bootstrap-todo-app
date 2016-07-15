@@ -1,17 +1,17 @@
 # README
 
-== Integrating Rails and Bootstrap
+## Integrating Rails and Bootstrap
 
 This is my first practice to integrate rails and bootstrap by following the tutorial:
 
 
-1. Integrating Rails and Bootstrap, Part 1 – the Installation
+1. Integrating Rails and Bootstrap, Part 1 – the Installation    
 <https://launchschool.com/blog/integrating-rails-and-bootstrap-part-1/>
 
-2. Integrating Rails and Bootstrap, Part 2 – CSS and Components
+2. Integrating Rails and Bootstrap, Part 2 – CSS and Components      
 <https://launchschool.com/blog/integrating-rails-and-bootstrap-part-2/>
 
-3. Integrating Rails and Bootstrap, Part 3 – Javascript Based Features
+3. Integrating Rails and Bootstrap, Part 3 – Javascript Based Features     
 <https://launchschool.com/blog/integrating-rails-and-bootstrap-part-3/>
 
 
